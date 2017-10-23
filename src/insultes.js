@@ -1,4 +1,4 @@
-{
+export const insultes = {
     "insulteSimpe": [
         "enfoiré va",
         "Eh ! mais t'es un enculé",
@@ -10,4 +10,4 @@
         "T'es comme le premier i de suicide",
         "Mec regarde ta geule, on ta chier dessus"
     ]
-  }
+}
